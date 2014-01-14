@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<transitionSet xmlns:gwns="http://schemas.android.com/apk/res-auto" gwns:transitionOrdering="together">
+
+    <gwns:changeBounds gwns:duration="1000" />
+
+    <gwns:fade gwns:duration="2000" gwns:fadingMode="fade_in" />
+</transitionSet>
